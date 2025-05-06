@@ -79,9 +79,7 @@ Optional: Confusion matrix plot using seaborn or matplotlib.
 Designed to run on Google Colab for ease of use.
 Ensure the dataset ZIP file follows the correct folder structure.
 Can be extended by applying other ensemble techniques (Random Forest, AdaBoost).
-✍️ Author
-AMRUTHA A(20221ISE0045) ABINAYA k(20221ISE0007)
-Institution Name-PRESIDENCY UNIVERSITY
+
 📚 Future Enhancements
 Deploy as a web or mobile app using Flask/Streamlit or React Native.
 Extend to multi-crop disease classification using larger datasets.
